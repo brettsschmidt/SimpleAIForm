@@ -1,0 +1,9 @@
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\bin\Debug\CSCI280FormPractice.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\bin\Debug\CSCI280FormPractice.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\bin\Debug\CSCI280FormPractice.pdb
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.Form1.resources
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.Properties.Resources.resources
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.csproj.GenerateResource.Cache
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.exe
+c:\users\brett\documents\visual studio 2015\Projects\CSCI280FormPractice\CSCI280FormPractice\obj\Debug\CSCI280FormPractice.pdb
